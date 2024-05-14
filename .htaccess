@@ -1,0 +1,2 @@
+
+AddHandler handler-basic .war .class
